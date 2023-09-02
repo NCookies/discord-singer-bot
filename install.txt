@@ -1,0 +1,6 @@
+# ffmpeg 설치 되어있어야 함
+
+pip install yt_dlp
+
+pip install PyNaCl 
+pip install discord.py[voice]
